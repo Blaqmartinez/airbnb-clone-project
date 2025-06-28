@@ -1,0 +1,50 @@
+Team roles
+Here's a brief description of common roles in a software development project based on typical responsibilities, especially as outlined in sources like the ITRexGroup blog and general industry practices:
+
+1. Backend Developer
+
+Responsibility: Designs and builds the server-side logic, APIs, and business logic of the application. Ensures that the system performs well, is secure, and can handle data efficiently.
+
+Key Tasks: Writing server-side code, setting up APIs, handling database interactions, and integrating third-party services.
+
+2. Frontend Developer
+
+Responsibility: Develops the client-side (user-facing) part of the application. Focuses on user experience and interface responsiveness.
+
+Key Tasks: Building UI components, consuming APIs, ensuring responsiveness and accessibility, and using frameworks like React, Angular, or Vue.js.
+
+3. Database Administrator (DBA)
+
+Responsibility: Manages the project’s data storage, including database design, performance tuning, security, and backups.
+
+Key Tasks: Designing schemas, setting up indexing, optimizing queries, ensuring data integrity and availability.
+
+4. Project Manager (PM)
+
+Responsibility: Oversees the entire project life cycle, manages timelines, budgets, and team coordination. Acts as the bridge between clients and developers.
+
+Key Tasks: Creating project plans, managing deadlines, facilitating communication, and risk mitigation.
+
+5. UI/UX Designer
+
+Responsibility: Designs the user interface and optimizes the user experience based on research and feedback.
+
+Key Tasks: Creating wireframes, prototypes, and visual designs, and ensuring usability across devices.
+
+6. Quality Assurance (QA) Engineer / Tester
+
+Responsibility: Ensures the software is free from bugs and meets requirements through testing.
+
+Key Tasks: Writing test cases, executing tests (manual and automated), reporting bugs, and validating fixes.
+
+7. DevOps Engineer
+
+Responsibility: Manages deployment, integration, and infrastructure to support the development and production environments.
+
+Key Tasks: Setting up CI/CD pipelines, infrastructure provisioning, monitoring, and incident response.
+
+8. Business Analyst
+
+Responsibility: Gathers project requirements from stakeholders and translates them into technical specifications.
+
+Key Tasks: Conducting stakeholder interviews, documenting requirements, and supporting change management.
